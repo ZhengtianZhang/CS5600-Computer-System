@@ -13,7 +13,7 @@ It takes only 6 clock ticks now to complete both processes. Because while Proces
 ## Question 4
 Since the -S is set to SWITCH_ON_END, Process 1 can not run on CPU while Process 0 is waiting for I/Os to be issued. So it will takes 3 more clock ticks to complete both processes.
 
-## Question 5\
+## Question 5
 The circumstance will be identical with Question 3. It takes only 6 clock ticks now to complete both processes.
 
 ## Question 6
